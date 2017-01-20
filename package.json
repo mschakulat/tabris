@@ -1,0 +1,16 @@
+{
+  "name": "cobitest",
+  "version": "0.1.0",
+  "main": "app.js",
+  "private": true,
+  "scripts": {
+    "build": "tsc -p .",
+    "start": "http-server -c-1 -d false -p 12345"
+  },
+  "dependencies": {
+    "tabris": "^1.10.0"
+  },
+  "devDependencies": {
+    "typescript": "^2.1.5"
+  }
+}

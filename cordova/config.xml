@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='utf-8'?>
+<widget id="cobitest.de.de" version="0.1.0">
+  <name>Cobitest</name>
+  <description>
+    Example Tabris.js App
+  </description>
+  <author email="michael.schakulat@computerbild.de">
+    Michael Schakulat
+  </author>
+</widget>
